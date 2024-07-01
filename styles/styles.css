@@ -1,4 +1,17 @@
 #title {
     color: black;
     background-color: cadetblue;
+    text-align: center;
 }
+
+.link {
+    font-size: x-large;
+}
+
+#Dashechka {
+    color: pink;
+    background-color: lightcoral;
+    font-size: larger;
+    text-align: center;
+}
+
